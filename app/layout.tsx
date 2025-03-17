@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Host_Grotesk } from "next/font/google"; // Import Host Grotesk
 import "./globals.css";
-import Navbar from "@/components/ui/Navbar";
+import Navbar from "@/components/Navbar";
 
 // Import the Host Grotesk font
 const hostGrotesk = Host_Grotesk({
